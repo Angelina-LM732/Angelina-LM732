@@ -10,6 +10,8 @@ I study mathematics (Mathematics and Applications) at the **University of Macau*
 | [**Earth–Moon transport**](https://github.com/Angelina-LM732/2026MCM)<br>MCM 2026, Problem B | How should a Moon colony be supplied by space elevator, rockets, or both? | Multi-objective optimization, Monte Carlo reliability analysis, inventory model |
 | [**Olympic medal tables**](https://github.com/Angelina-LM732/2025MCM)<br>MCM 2025, Problem C | Which countries will rise or fall at LA 2028, and who wins a first medal? | Linear regression, ARIMA with ADF tests, logistic regression, association rules |
 
+*Coming soon:* a numerical PDE project from **CUMCM 2026** (China Undergraduate Mathematical Contest in Modeling), to be released after judging.
+
 #### Tools
 
 Python (NumPy, pandas, SciPy) · R · C++ · JavaScript
